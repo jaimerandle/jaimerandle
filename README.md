@@ -5,10 +5,8 @@
 <text> I am a sociable person who enjoys team work and gaining knowledge. I like encountering new challenges and seeking for creative solutions.</text>
 <br/>
 <br/>
-- 🔭 I’m currently working on a mobile app that promotes the use of the bicycle by tracking your daily distances
-and rewarding you for your progress.
-<br/>
-- 🌱 I’m currently learning React Native.
+- 🔭 Recently made a Mobile App - developed as part of our final project - for LiberFiets, a company that promotes the use of bicycles by rewarding with points per kilometers traveled by cycling. The user can exchange the gained points for products in different stores. 
+• Tech: React Native, Redux, CSS, Node JS, Express, Mongoose.
 <br/>
 - 👯 I’m looking to collaborate on group projects that will allow me to grow and continue learning.
 <br/>
